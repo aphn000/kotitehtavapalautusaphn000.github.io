@@ -1,19 +1,23 @@
 # kotitehtavapalautusaphn000.github.io
-MOD1ja2
+# Tehtävien palautus
 
--teht1 1p
--teht2 2p
--teht3 3p
--teht4 3p
--teht5 3p
--teht3 3p
+[Avaa tehtäväsivu](https://aphn000.github.io/kotitehtavapalautusaphn000.github.io/)
 
-mod 3
+## Moduulit 1–2
 
--teht 1 2p
--teht 2 2p
--teht 3 2p
--teht 4 2p
--teht 5 2p
--teht 6 2p
--teht 9 3p
+- [Kotitehtävä 1](https://aphn000.github.io/kotitehtavapalautusaphn000.github.io/JSKOTITEHTAVAT/moduuli1ja2/kotiteht1/)
+- [Kotitehtävä 2](https://aphn000.github.io/kotitehtavapalautusaphn000.github.io/JSKOTITEHTAVAT/moduuli1ja2/kotiteht2/)
+- [Kotitehtävä 3](https://aphn000.github.io/kotitehtavapalautusaphn000.github.io/JSKOTITEHTAVAT/moduuli1ja2/kotiteht3/)
+- [Kotitehtävä 4](https://aphn000.github.io/kotitehtavapalautusaphn000.github.io/JSKOTITEHTAVAT/moduuli1ja2/kotiteht4/)
+- [Kotitehtävä 5](https://aphn000.github.io/kotitehtavapalautusaphn000.github.io/JSKOTITEHTAVAT/moduuli1ja2/kotiteht5/)
+- [Kotitehtävä 6](https://aphn000.github.io/kotitehtavapalautusaphn000.github.io/JSKOTITEHTAVAT/moduuli1ja2/kotiteht6/)
+
+## Moduuli 3
+
+- [Kotitehtävä 1](https://aphn000.github.io/kotitehtavapalautusaphn000.github.io/JSKOTITEHTAVAT/moduuli3/mod3teht1/)
+- [Kotitehtävä 2](https://aphn000.github.io/kotitehtavapalautusaphn000.github.io/JSKOTITEHTAVAT/moduuli3/mod3teht2/)
+- [Kotitehtävä 3](https://aphn000.github.io/kotitehtavapalautusaphn000.github.io/JSKOTITEHTAVAT/moduuli3/mod3teht3/)
+- [Kotitehtävä 4](https://aphn000.github.io/kotitehtavapalautusaphn000.github.io/JSKOTITEHTAVAT/moduuli3/mod3teht4/)
+- [Kotitehtävä 5](https://aphn000.github.io/kotitehtavapalautusaphn000.github.io/JSKOTITEHTAVAT/moduuli3/mod3teht5/)
+- [Kotitehtävä 6](https://aphn000.github.io/kotitehtavapalautusaphn000.github.io/JSKOTITEHTAVAT/moduuli3/mod3teht6/)
+- [Kotitehtävä 9](https://aphn000.github.io/kotitehtavapalautusaphn000.github.io/JSKOTITEHTAVAT/moduuli3/mod3teht9/)
